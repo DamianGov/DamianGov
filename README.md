@@ -8,4 +8,4 @@
 ## Contact
 
 - Email: govdamian@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/damian-govender-73b84b1b5/)https://www.linkedin.com/in/damian-govender-73b84b1b5/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/damian-govender-73b84b1b5/)
