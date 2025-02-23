@@ -1,6 +1,6 @@
 # Damian
 
-💼 Junior Business Intelligence Developer
+💼 Junior Business Intelligence Developer  
 🎓 IT Alumnus of Durban University of Technology  
 📚 Specialised in Machine Intelligence and Computer Graphics  
 🌐 C# | Python | JavaScript | T-SQL | HTML  
