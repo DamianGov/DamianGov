@@ -19,6 +19,6 @@ I’m a coder, plant enthusiast, and strategy gamer who loves building tools tha
 ## Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/damian-govender/)  
-- 📧 [Email] (mailto:govdamian@gmail.com)  
+- 📧 [Email](mailto:govdamian@gmail.com)  
 
 *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* ~ Alan Turing  
