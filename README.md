@@ -5,7 +5,7 @@
 💼 **Junior Business Intelligence Developer**  
 🎓 **IT Alumnus**, Durban University of Technology (Specialised in Machine Intelligence & Computer Graphics)  
 🌱 **Passionate about** botany, carnivorous plants, and IoT-driven plant care  
-🎮 **Avid gamer** Counter Strike 2 and MTG Commander 
+🎮 **Avid gamer** Counter Strike 2 and MTG Commander  
 💻 **Tech Stack**: C# • Python • Java • JavaScript • T-SQL • HTML 
 
 ---
