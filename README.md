@@ -2,7 +2,7 @@
 
 > Crafting intelligent solutions with code, plants, and a love for strategy.
 
-💼 **Junior Business Intelligence Developer**  
+💼 **Junior Business Intelligence Engineer**  
 🎓 **IT Alumnus**, Durban University of Technology (Specialised in Machine Intelligence & Computer Graphics)  
 🌱 **Passionate about** botany, carnivorous plants, and IoT-driven plant care  
 🎮 **Avid gamer** Counter Strike 2 and MTG Commander  
